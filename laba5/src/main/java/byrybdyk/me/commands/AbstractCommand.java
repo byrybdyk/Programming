@@ -18,4 +18,6 @@ public abstract class AbstractCommand {
         return null;
     }
 
+    public String description(){return null;}
+
 }

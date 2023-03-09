@@ -17,9 +17,12 @@ public class CollectionManager {
 
     {
         routes = new LinkedHashMap<>();
-        commandsInfo = new HashMap<>();
         initializationDate = LocalDate.now();
+
     }
+
+
+
 
 
 
