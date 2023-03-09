@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="939076b3-1fcc-4b73-b5b1-2ad0a2dc7235" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/byrybdyk/me/commands/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/byrybdyk/me/commands/HelpCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/byrybdyk/me/aplication/CollectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/byrybdyk/me/aplication/CollectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/byrybdyk/me/aplication/CommandReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/byrybdyk/me/aplication/CommandReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/byrybdyk/me/commands/HelpCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/byrybdyk/me/commands/HelpCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/laba5-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/laba5-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/byrybdyk/me/aplication/CommandReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/byrybdyk/me/aplication/CommandReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/byrybdyk/me/aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/byrybdyk/me/aplication/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/byrybdyk/me/commands/AbstractCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/byrybdyk/me/commands/AbstractCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/byrybdyk/me/commands/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/byrybdyk/me/commands/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/byrybdyk/me/commands/HelpCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/byrybdyk/me/commands/HelpCommand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,17 +1,23 @@
 package byrybdyk.me.commands;
 
-import byrybdyk.me.aplication.CollectionManager;
-
 import java.util.HashMap;
-import java.util.Map;
 
-public class HelpCommand implements Command {
+public class HelpCommand implements Command  {
+    private HashMap<String, Command> commands;
 
+    public HelpCommand(HashMap<String, Command> commands) {
+        this.commands = commands;
+    }
 
     public String getDescription() {
-        return null;
+
+        return ("Show available commands");
     }
     public void execute() {
-        System.out.println("HELP");
+        for (Command c: commands.values()){
+            System.out.println(c.getDescription());
+
+        }
     }
+
 }
