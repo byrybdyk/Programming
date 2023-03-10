@@ -1,7 +1,6 @@
 package byrybdyk.me.aplication;
 
-import byrybdyk.me.commands.Command;
-import byrybdyk.me.commands.HelpCommand;
+import byrybdyk.me.commands.*;
 
 import java.util.HashMap;
 import java.util.Scanner;
@@ -17,15 +16,16 @@ public class CommandReader {
 
     {
         commands = new HashMap<>();
-        commands.put("help", new HelpCommand(commands));
+        commands.put("help", new HelpCommand(commands,collectionManipulator));
+        commands.put("info", new InfoCommand(collectionManipulator));
+        commands.put("show", new ShowCommand(collectionManipulator));
+        commands.put("insert", new InsertNullCommand(collectionManipulator));
     }
 
     public HashMap<String, Command> get_commands(){
         return commands;
     }
     public void start() {
-        String[] finalUserCommand;
-        // FieldReceiver receiver = new FieldReceiver(collectionManipulator);
         Scanner scanner = new Scanner(System.in);
 
 
